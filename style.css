@@ -16,7 +16,7 @@ a {
 
 body {
   font-family: "Montserrat", sans-serif;
-  min-width: 90vw;
+  min-width: 50vw;
 }
 
 /* Container */
@@ -115,6 +115,7 @@ footer p {
 
 .footer-list {
   margin: 1rem;
+  padding-inline-start: 0%;
 }
 
 a,
